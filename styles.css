@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Style the content */
+  .content {
+    align-items: center;
+    padding: 150px;
+    height: 100%; /* Should be removed. Only for demonstration */
+  }
+
+  small {
+      font-size: 10px;
+  }
